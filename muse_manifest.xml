@@ -1,0 +1,54 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="element.github.io/elementaboutus" resolutions="1x" timestamp="1512082742357">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="280633345" ref="index"/>
+    <file name="nomq_index.css" crc="424476758" ref="index"/>
+    <file name="about-us.css" crc="12064754" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us"/>
+    <file name="museutils.js" crc="17924269" ref="index:about-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us"/>
+    <file name="museconfig.js" crc="278381782" ref="index:about-us"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:about-us"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index:about-us"/>
+  </folder>
+  <folder name="images">
+    <file name="home.jpg" crc="202605017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home667x1186.jpg" crc="350332383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home640x1138.jpg" crc="4134325842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home568x1010.jpg" crc="3927202853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home480x854.jpg" crc="474267984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home414x737.jpg" crc="4268095618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home375x667.jpg" crc="3802206514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home320x569.jpg" crc="4244521736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="about us.jpg" crc="17957418" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="nasa-crop-u1083.png" crc="4180933332" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="46266271" seo="true" mt="1512081652658" redirect="true"/>
+  <file name="about-us.html" crc="10665701" seo="true" mt="1512081181447" redirect="true"/>
+</manifest>
